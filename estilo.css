@@ -1,0 +1,10 @@
+body{
+	background-color: #c1c135 ;
+}
+main{
+	display: flex;
+}
+
+#sessaolateral{
+	background-color: red;
+}
